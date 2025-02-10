@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\HomeChefHub.csproj": {}
+    "G:\\Home_Chef_Hub\\Home_Chef_Hub\\HomeChefHub.csproj": {}
   },
   "projects": {
-    "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\HomeChefHub.csproj": {
+    "G:\\Home_Chef_Hub\\Home_Chef_Hub\\HomeChefHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\HomeChefHub.csproj",
+        "projectUniqueName": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\HomeChefHub.csproj",
         "projectName": "HomeChefHub",
-        "projectPath": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\HomeChefHub.csproj",
+        "projectPath": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\HomeChefHub.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\",
+        "outputPath": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
