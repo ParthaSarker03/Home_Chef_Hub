@@ -1,7 +1,16 @@
+using HomeChefHub.Data;
+using Microsoft.EntityFrameworkCore;
+//using Microsoft.Extensions.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<MyDatabaseContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("HomeChefHub")));
 
 var app = builder.Build();
 
