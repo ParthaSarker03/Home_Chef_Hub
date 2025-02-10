@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "simjaG96QwKQSEy+DMuw/yvikLMMqFziY8wdXVq5glk=",
+  "Hash": "nG5UweIqS1ZX21RMmLONI8c1jhBbw38FOdMu5wqsXFI=",
   "Source": "HomeChefHub",
   "BasePath": "_content/HomeChefHub",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HomeChefHub\\wwwroot",
       "Source": "HomeChefHub",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "HomeChefHub#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "K0Oi0Cn4iXWr7FJidlqX1lEqPURwBy2aCJS4Ig3stnE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css"
+      "OriginalItemSpec": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "HomeChefHub#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "K0Oi0Cn4iXWr7FJidlqX1lEqPURwBy2aCJS4Ig3stnE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css"
+      "OriginalItemSpec": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\style.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\style.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kopimxkwx5",
-      "Integrity": "hIyqWqJkTVxfp1BwUarZ79KOx/tmJFG/vIdeZUHnpXE=",
+      "Fingerprint": "7wraaabpw0",
+      "Integrity": "t03M3DQF/twoZfnkw8bC5rmE0DHtIui0cFlS4g2/hFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\favicon.ico",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\favicon.ico",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-1.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-1.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/about-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-1.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-2.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-2.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/about-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-2.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-3.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-3.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/about-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-3.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-4.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-4.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/about-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-4.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\bg-hero.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\bg-hero.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/bg-hero#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-hero.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\hero.png",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\hero.png",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/hero#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero.png"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-1.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-1.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-1.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-2.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-2.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-2.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-3.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-3.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-3.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-4.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-4.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-4.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-5.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-5.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-5.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-6.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-6.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-6.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-7.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-7.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-7.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-8.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-8.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/menu-8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-8.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-1.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-1.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/team-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-2.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-2.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/team-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-3.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-3.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/team-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-4.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-4.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/team-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/testimonial-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/testimonial-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/testimonial-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/testimonial-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\video.jpg",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\video.jpg",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "img/video#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video.jpg"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\main.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\main.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\site.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\site.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HomeChefHub",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\",
+      "ContentRoot": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\",
       "BasePath": "_content/HomeChefHub",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1868,7 +1868,7 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1905,7 +1905,7 @@
     },
     {
       "Route": "css/bootstrap.cuzucbncgs.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1950,7 +1950,7 @@
     },
     {
       "Route": "css/bootstrap.min.78dw5b9d1k.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1995,7 +1995,7 @@
     },
     {
       "Route": "css/bootstrap.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2031,8 +2031,8 @@
       ]
     },
     {
-      "Route": "css/style.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\style.css",
+      "Route": "css/style.7wraaabpw0.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2041,7 +2041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17213"
+          "Value": "17209"
         },
         {
           "Name": "Content-Type",
@@ -2049,48 +2049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hIyqWqJkTVxfp1BwUarZ79KOx/tmJFG/vIdeZUHnpXE=\""
+          "Value": "\"t03M3DQF/twoZfnkw8bC5rmE0DHtIui0cFlS4g2/hFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 19:26:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hIyqWqJkTVxfp1BwUarZ79KOx/tmJFG/vIdeZUHnpXE="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.kopimxkwx5.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17213"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hIyqWqJkTVxfp1BwUarZ79KOx/tmJFG/vIdeZUHnpXE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 19:26:51 GMT"
+          "Value": "Mon, 10 Feb 2025 07:46:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2100,7 +2063,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kopimxkwx5"
+          "Value": "7wraaabpw0"
         },
         {
           "Name": "label",
@@ -2108,13 +2071,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hIyqWqJkTVxfp1BwUarZ79KOx/tmJFG/vIdeZUHnpXE="
+          "Value": "sha256-t03M3DQF/twoZfnkw8bC5rmE0DHtIui0cFlS4g2/hFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t03M3DQF/twoZfnkw8bC5rmE0DHtIui0cFlS4g2/hFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 07:46:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t03M3DQF/twoZfnkw8bC5rmE0DHtIui0cFlS4g2/hFU="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2159,7 +2159,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2196,7 +2196,7 @@
     },
     {
       "Route": "HomeChefHub.1hfqgjjaml.bundle.scp.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2241,7 +2241,7 @@
     },
     {
       "Route": "HomeChefHub.1hfqgjjaml.styles.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2286,7 +2286,7 @@
     },
     {
       "Route": "HomeChefHub.bundle.scp.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2323,7 +2323,7 @@
     },
     {
       "Route": "HomeChefHub.styles.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeChefHub.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2360,7 +2360,7 @@
     },
     {
       "Route": "img/about-1.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2397,7 +2397,7 @@
     },
     {
       "Route": "img/about-1.o89fcr7bws.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2442,7 +2442,7 @@
     },
     {
       "Route": "img/about-2.gd52g5mp2n.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2487,7 +2487,7 @@
     },
     {
       "Route": "img/about-2.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2524,7 +2524,7 @@
     },
     {
       "Route": "img/about-3.cgqlnprm91.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2569,7 +2569,7 @@
     },
     {
       "Route": "img/about-3.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2606,7 +2606,7 @@
     },
     {
       "Route": "img/about-4.jh97oefhfc.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2651,7 +2651,7 @@
     },
     {
       "Route": "img/about-4.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\about-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2688,7 +2688,7 @@
     },
     {
       "Route": "img/bg-hero.88c0myvi4x.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\bg-hero.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\bg-hero.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2733,7 +2733,7 @@
     },
     {
       "Route": "img/bg-hero.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\bg-hero.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\bg-hero.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2770,7 +2770,7 @@
     },
     {
       "Route": "img/hero.6kbxiglcre.png",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\hero.png",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\hero.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2815,7 +2815,7 @@
     },
     {
       "Route": "img/hero.png",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\hero.png",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\hero.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2852,7 +2852,7 @@
     },
     {
       "Route": "img/menu-1.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2889,7 +2889,7 @@
     },
     {
       "Route": "img/menu-1.pc3orkisjn.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2934,7 +2934,7 @@
     },
     {
       "Route": "img/menu-2.i4fc4ok81z.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2979,7 +2979,7 @@
     },
     {
       "Route": "img/menu-2.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3016,7 +3016,7 @@
     },
     {
       "Route": "img/menu-3.izpbwuprox.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3061,7 +3061,7 @@
     },
     {
       "Route": "img/menu-3.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3098,7 +3098,7 @@
     },
     {
       "Route": "img/menu-4.bh47kgvsl3.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3143,7 +3143,7 @@
     },
     {
       "Route": "img/menu-4.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3180,7 +3180,7 @@
     },
     {
       "Route": "img/menu-5.2bhc4f4npo.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-5.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3225,7 +3225,7 @@
     },
     {
       "Route": "img/menu-5.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-5.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3262,7 +3262,7 @@
     },
     {
       "Route": "img/menu-6.69wdarbb3m.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-6.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3307,7 +3307,7 @@
     },
     {
       "Route": "img/menu-6.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-6.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3344,7 +3344,7 @@
     },
     {
       "Route": "img/menu-7.ibhiu1ng5i.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-7.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3389,7 +3389,7 @@
     },
     {
       "Route": "img/menu-7.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-7.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3426,7 @@
     },
     {
       "Route": "img/menu-8.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-8.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3463,7 +3463,7 @@
     },
     {
       "Route": "img/menu-8.zrd6kljgac.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-8.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\menu-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3508,7 +3508,7 @@
     },
     {
       "Route": "img/team-1.5r9xsckx9h.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3553,7 +3553,7 @@
     },
     {
       "Route": "img/team-1.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3590,7 +3590,7 @@
     },
     {
       "Route": "img/team-2.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3627,7 +3627,7 @@
     },
     {
       "Route": "img/team-2.ps64ufg1yn.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3672,7 +3672,7 @@
     },
     {
       "Route": "img/team-3.2jbr0t5mt4.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3717,7 +3717,7 @@
     },
     {
       "Route": "img/team-3.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3754,7 +3754,7 @@
     },
     {
       "Route": "img/team-4.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3791,7 +3791,7 @@
     },
     {
       "Route": "img/team-4.ll97v98k8v.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\team-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3836,7 +3836,7 @@
     },
     {
       "Route": "img/testimonial-1.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3873,7 +3873,7 @@
     },
     {
       "Route": "img/testimonial-1.urxekhjru9.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-1.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3918,7 +3918,7 @@
     },
     {
       "Route": "img/testimonial-2.idthmlef6x.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3963,7 +3963,7 @@
     },
     {
       "Route": "img/testimonial-2.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-2.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4000,7 +4000,7 @@
     },
     {
       "Route": "img/testimonial-3.d2587veb1l.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4045,7 +4045,7 @@
     },
     {
       "Route": "img/testimonial-3.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-3.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4082,7 +4082,7 @@
     },
     {
       "Route": "img/testimonial-4.dqrnfx4tei.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4127,7 +4127,7 @@
     },
     {
       "Route": "img/testimonial-4.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-4.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\testimonial-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4164,7 +4164,7 @@
     },
     {
       "Route": "img/video.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\video.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\video.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4201,7 +4201,7 @@
     },
     {
       "Route": "img/video.t81qy0aqkr.jpg",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\video.jpg",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\img\\video.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4246,7 +4246,7 @@
     },
     {
       "Route": "js/main.bupkenl3ko.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\main.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4291,7 +4291,7 @@
     },
     {
       "Route": "js/main.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\main.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4328,7 +4328,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4365,7 +4365,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4410,7 +4410,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4447,7 +4447,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4492,7 +4492,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4529,7 +4529,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4574,7 +4574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4611,7 +4611,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4656,7 +4656,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4693,7 +4693,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4738,7 +4738,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4775,7 +4775,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4820,7 +4820,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4857,7 +4857,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4902,7 +4902,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4939,7 +4939,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4984,7 +4984,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5021,7 +5021,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5066,7 +5066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5111,7 +5111,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5148,7 +5148,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5185,7 +5185,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5230,7 +5230,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5267,7 +5267,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5312,7 +5312,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5349,7 +5349,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5394,7 +5394,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5431,7 +5431,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5476,7 +5476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5513,7 +5513,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5550,7 +5550,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5587,7 +5587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5632,7 +5632,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5677,7 +5677,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5722,7 +5722,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5767,7 +5767,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5804,7 +5804,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5849,7 +5849,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5886,7 +5886,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5923,7 +5923,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5960,7 +5960,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6005,7 +6005,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6050,7 +6050,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6095,7 +6095,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6132,7 +6132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6177,7 +6177,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6214,7 +6214,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6251,7 +6251,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6288,7 +6288,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6333,7 +6333,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6378,7 +6378,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6415,7 +6415,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6460,7 +6460,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6497,7 +6497,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6542,7 +6542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6579,7 +6579,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6616,7 +6616,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6661,7 +6661,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6706,7 +6706,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6743,7 +6743,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6788,7 +6788,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6825,7 +6825,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6862,7 +6862,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6907,7 +6907,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6944,7 +6944,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6989,7 +6989,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7034,7 +7034,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7071,7 +7071,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7116,7 +7116,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7153,7 +7153,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7198,7 +7198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7243,7 +7243,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7280,7 +7280,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7325,7 +7325,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7362,7 +7362,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7399,7 +7399,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7444,7 +7444,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7481,7 +7481,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7526,7 +7526,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7563,7 +7563,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7600,7 +7600,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7645,7 +7645,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7690,7 +7690,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7727,7 +7727,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7772,7 +7772,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7809,7 +7809,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7846,7 +7846,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7883,7 +7883,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7928,7 +7928,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7973,7 +7973,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8018,7 +8018,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8055,7 +8055,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8100,7 +8100,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8145,7 +8145,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8182,7 +8182,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8227,7 +8227,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8272,7 +8272,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8309,7 +8309,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8346,7 +8346,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8391,7 +8391,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8428,7 +8428,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8473,7 +8473,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8510,7 +8510,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8555,7 +8555,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8592,7 +8592,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8629,7 +8629,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8674,7 +8674,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8711,7 +8711,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8756,7 +8756,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8793,7 +8793,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8838,7 +8838,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8883,7 +8883,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8920,7 +8920,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8965,7 +8965,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9002,7 +9002,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9047,7 +9047,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\VSC#Project\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\Home_Chef_Hub\\Home_Chef_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
